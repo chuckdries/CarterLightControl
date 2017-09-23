@@ -1,4 +1,6 @@
-So apparently carter's light switches can be turned on or off but can't be scheduled without the purchase of some kind of bridge/router device. This script lives on my NAS and turns his lights on for him at 8am.
+Carter's cheap ass fucking light switches can be turned on or off with an app but can't be scheduled without buying some fucking bridge or something. This script lives on my NAS and turns his lights on for him.
+
+I spent a whole 20 minutes of my life reading fucking lighting api documentation because he refuses to take down his fuck damn blackout curtain
 
 TODO: remove node-schedule and just use a cron job to run the script
 
