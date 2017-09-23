@@ -1,0 +1,20 @@
+{
+    "name": "carterlightcontrol",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc",
+        "run": "node lib/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "hs100-api": "^0.14.0",
+        "node-schedule": "^1.2.5"
+    },
+    "devDependencies": {
+        "@types/node-schedule": "^1.2.0"
+    }
+}

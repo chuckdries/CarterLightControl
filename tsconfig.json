@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "outDir": "lib"
+    },
+    "files": [
+        "src/index.ts"
+    ]
+}
